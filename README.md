@@ -23,3 +23,7 @@ Bicicleta aro 29, 21 marchas, R$1219,50
 
 Bola Nike, Brasileirão R$120,00
 ![image](https://user-images.githubusercontent.com/113630008/198358487-bf7809d9-1a16-46ba-b866-1254ee58268d.png)
+
+Chuteira de futsal R$135,50
+
+
